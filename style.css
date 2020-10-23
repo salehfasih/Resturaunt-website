@@ -1,0 +1,180 @@
+.nav-link,a{
+    margin-left: 30px;
+    color: black;
+}
+.navbar-brand{
+    padding: 25px;
+    color: black;
+}
+.brnd{
+    margin-left: 20px;
+}
+a{
+    font-size: 20px;
+    /* font-family: 'Times New Roman', Times, serif;
+     */
+     /* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      */
+      /* font-family: 'Roboto Slab', serif; */
+      font-weight: bold;
+      /* font-family: 'Dancing Script', cursive;
+       */
+       font-family: 'Dancing Script', cursive;
+font-family: 'Squada One', cursive;
+margin-top: 10px;
+
+}
+.img_one{
+    margin-top: -10px;
+    padding: 0px;
+
+}
+.navbar{
+    background-color: rgb(252, 245, 235);
+    height: 140px;
+    
+}
+.order>button{
+    color: white;
+    background-color: orangered;
+    font-family: 'Dancing Script', cursive;
+    border: none;
+    padding-top: 50px;
+    margin-top: -50px;
+    font-size: 16px;
+
+
+}
+.margin{
+
+    font-size: 16px;
+
+}
+@media screen and (max-width: 746px) {
+    .order,button{
+      margin-top: 0px;
+    }
+  }
+  .pizza_class{
+      background-color: orangered
+  }
+  .pizza{
+      background-image: url('pizza.jpg');
+      background-clip: border-box;
+       
+      width: 98%;
+      height: 400px;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      color: white;
+    
+      
+
+  }
+  .ord{
+      background-color: transparent;
+      border: 5px solid orangered;
+      color: white;
+      padding-left: 30px;
+      padding-right: 30px;
+      padding-top: 5px;
+      padding-bottom: 5px;
+      font-size: 20px;
+      justify-content: center;
+      font-family: 'Squada One', cursive;
+
+  }
+  .best{
+      justify-content: center;
+      text-align: center;
+      margin-top: 50px;
+  }
+  .head{
+    font-family: 'Squada One', cursive;
+    font-size: 60px;
+
+font-weight: lighter;
+
+  }
+  .pizza-one{
+      width: 50%;
+      margin-top: 40px;
+      margin-left: 50px;    
+      
+
+  }
+  .para{
+      margin-top: 40px;
+      color: white;
+      font-family: 'Dancing Script', cursive;
+font-family: 'Roboto', sans-serif;
+font-family: 'Squada One', cursive;
+  }
+  .pizza_class  {
+    position: relative;
+
+        height: 700px;
+        
+          
+  }
+  .pas{
+    font-family: 'Dancing Script', cursive;
+    font-size: 34px;
+   font-weight: bold ;
+  }
+  .store{
+      text-align: center;
+      font-family: 'Squada One', cursive;
+      margin-top: 20px;
+      height: 70px;
+  }
+  @media screen and (max-width: 746px) {
+    iframe{
+      width: 600px;
+    }
+  }
+  .map{
+      background-color: orangered;
+      color: white;
+      font-size: 20px;
+      font-family: 'Squada One', cursive;
+     height: 100px;
+  }
+  .inp{
+      width: 90%;
+      height: 50px;
+      border: none;
+  }
+  .image_part{
+    font-family: 'Staatliches', cursive;
+   font-size: 40px; 
+   color: white; 
+   background-color: orangered;
+   /* height: 550px; */
+height: 70%;
+   opacity: 80%;
+
+}
+
+.sup{
+    margin-top: 120px;
+}
+  .local{
+      color: black;}
+      .but{
+          background-color: transparent;
+          border: 5px solid  white;
+          color: white;
+          margin-top: 40px;
+          margin-left: -26px;
+          /* width: 30%; */
+          padding-left: 30px;
+          padding-right: 30px;
+          padding-top: 10px;
+          padding-bottom: 10px;
+          font-size: 16px;  
+      }
+      /* .image_part>img{
+          height: 400px;
+      } */
